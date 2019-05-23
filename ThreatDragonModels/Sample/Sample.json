@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Sample",
+    "owner": "Ashutosh",
+    "description": "Sample"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Dan"
+  }
+}
